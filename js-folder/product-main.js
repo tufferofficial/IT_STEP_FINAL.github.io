@@ -395,7 +395,7 @@ if (logoutAllLink) {
 
 
 $(".featured-button").click(function () { 
-  location.href = "/index3.html"
+  location.href = "../index3.html"
   
 });
 
