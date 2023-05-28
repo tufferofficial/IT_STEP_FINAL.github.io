@@ -111,7 +111,7 @@ header a {
   color: #3c9379;
 }
 .Fashion {
-  background-image: url(/images/priscilla-du-preez-GNJbBgPP2VU-unsplash.jpg);
+  background-image: url(images/priscilla-du-preez-GNJbBgPP2VU-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: gray;
@@ -142,7 +142,7 @@ header a {
 }
 
 .Skincare {
-  background-image: url(/images/rsz_curology-wha90eoze7i-unsplash.jpg);
+  background-image: url(images/rsz_curology-wha90eoze7i-unsplash.jpg);
   background-size: cover;
   background-color: gray;
   background-repeat: no-repeat;
@@ -172,7 +172,7 @@ header a {
 }
 
 .Shoes-img {
-  background-image: url(/images/03.png);
+  background-image: url(images/03.png);
   background-size: cover;
   background-repeat: no-repeat;
   margin-left: 220px;
@@ -209,7 +209,7 @@ header a {
 }
 
 .Electronic-img {
-  background-image: url(/images/david-svihovec-IdR3xJFstW0-unsplash.jpg);
+  background-image: url(images/david-svihovec-IdR3xJFstW0-unsplash.jpg);
   background-color: gray;
   background-size: cover;
   background-repeat: no-repeat;
