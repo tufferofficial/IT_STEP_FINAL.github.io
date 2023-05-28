@@ -142,7 +142,7 @@ header a {
 }
 
 .Skincare {
-  background-image: url(../images/skincare);
+  background-image: url(../images/skincare.png);
   background-size: cover;
   background-color: gray;
   background-repeat: no-repeat;
@@ -172,7 +172,7 @@ header a {
 }
 
 .Shoes-img {
-  background-image: url(../images/priscilla-du-preez-GNJbBgPP2VU-unsplash.png);
+  background-image: url(../images/shoes.png);
   background-size: cover;
   background-repeat: no-repeat;
   margin-left: 220px;
@@ -209,7 +209,7 @@ header a {
 }
 
 .Electronic-img {
-  background-image: url(../images/priscilla-du-preez-GNJbBgPP2VU-unsplash.png);
+  background-image: url(../images/electronic.png);
   background-color: gray;
   background-size: cover;
   background-repeat: no-repeat;
