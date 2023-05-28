@@ -72,7 +72,7 @@
       </div>
 
       <div class="buttonParent">
-        <a id="loginBtn" class="loginBtn" href="/Form/login.html">Login</a>
+        <a id="loginBtn" class="loginBtn" href="Form/login.html">Login</a>
         <a class="registerBtn" href="Form/index.html">Register</a>
       </div>
     </header>
