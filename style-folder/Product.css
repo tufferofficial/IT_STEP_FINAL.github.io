@@ -6,7 +6,7 @@ body{
   background-size: cover;
 }
 #productContainer{
-  background-image: url(/images/blurry-gradient-haikei.png);
+  background-image: url(../images/blurry-gradient-haikei.png);
 }
 .navbar-brand {
   font-family: "Manrope";
