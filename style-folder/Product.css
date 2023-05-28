@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap");
 
 body{
-  background-image: url(/images/blurry-gradient-haikei.png);
+  background-image: url(../images/blurry-gradient-haikei.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
