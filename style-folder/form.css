@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
 body{
-  background-image: url(/images/stacked-peaks-haikei.png);
+  background-image: url(../images/stacked-peaks-haikei.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh ;
@@ -16,7 +16,7 @@ body{
   border-radius: 50px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   background-color: #3c9379;
-  background-image: url(/images/blob-scene-haikei.png);
+  background-image: url(../images/blob-scene-haikei.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
