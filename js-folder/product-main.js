@@ -2,11 +2,7 @@ $(document).ready(function () {
   const selectedProducts = [];
 
 
-  const savedProducts = localStorage.getItem("selectedProducts");
-  if (savedProducts) {
-    selectedProducts.push(...JSON.parse(savedProducts));
-    displaySelectedProducts();
-  }
+
 
   function addToCart(product) {
     selectedProducts.push(product);
@@ -26,6 +22,11 @@ $(document).ready(function () {
 
   function saveSelectedProducts() {
     localStorage.setItem("selectedProducts", JSON.stringify(selectedProducts));
+  }
+    const savedProducts = localStorage.getItem("selectedProducts");
+  if (savedProducts) {
+    selectedProducts.push(...JSON.parse(savedProducts));
+    displaySelectedProducts();
   }
 
   $("#productContainer").on("click", ".buy-product-btn", function () {
