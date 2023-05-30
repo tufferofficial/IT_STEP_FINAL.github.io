@@ -25,3 +25,4 @@ If you encounter any issues or have suggestions for improving the product page w
 
 Future Plans:
 remove test featured page and make it full with functionalities
+add functionality to pricing page
