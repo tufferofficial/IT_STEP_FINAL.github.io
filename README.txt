@@ -1,4 +1,4 @@
-Welcome to the product page website! This website is designed to showcase and promote products effectively to potential customers.
+Welcome to the Bachira product page website! This website is designed to showcase and promote products effectively to potential customers.
 This README file will guide you through the essential information about the website and provide instructions for setting it up and customizing it to fit your needs.
 
 Features:
@@ -22,3 +22,6 @@ Hosting: github
 
 Support and Contributions:
 If you encounter any issues or have suggestions for improving the product page website, feel free to open an issue or submit a pull request in the repository. Your contributions are welcome and greatly appreciated!
+
+Future Plans:
+remove test featured page and make it full with functionalities
