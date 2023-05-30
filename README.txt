@@ -24,5 +24,27 @@ Support and Contributions:
 If you encounter any issues or have suggestions for improving the product page website, feel free to open an issue or submit a pull request in the repository. Your contributions are welcome and greatly appreciated!
 
 Future Plans:
-remove test featured page and make it full with functionalities
-add functionality to pricing page
+
+
+Featured Page:
+
+We have removed the test featured page and replaced it with a fully functional page. It now includes the following features:
+
+Products are displayed in an organized manner, showcasing their key details such as name, description, price, and image.
+Users can easily navigate through different categories and subcategories to find their desired products.
+Each product listing includes an "Add to Basket" button, allowing users to add items to their shopping basket directly from the featured page.
+Pricing Page:
+
+The pricing page now offers enhanced functionality, including:
+
+A clear and comprehensive overview of our product pricing structure.
+Detailed information about each pricing plan, such as features, benefits, and limitations.
+A comparison table that allows users to compare different plans side by side, aiding them in making an informed decision.
+Basket Functionality:
+
+The shopping basket has been redesigned with additional functionalities for an improved user experience:
+
+Users can now view the total number of products they have selected in the basket.
+Each item in the basket is accompanied by a thumbnail image, making it easier for users to identify their chosen products.
+The basket displays more detailed information for each item, including its price, allowing users to have a clearer overview of their selections.
+Users can proceed to the checkout process directly from the basket, streamlining the purchasing journey.
