@@ -48,3 +48,7 @@ Users can now view the total number of products they have selected in the basket
 Each item in the basket is accompanied by a thumbnail image, making it easier for users to identify their chosen products.
 The basket displays more detailed information for each item, including its price, allowing users to have a clearer overview of their selections.
 Users can proceed to the checkout process directly from the basket, streamlining the purchasing journey.
+
+Multiple account:
+
+user can register multiplay accounts and you can use logout all to logout from all account.
