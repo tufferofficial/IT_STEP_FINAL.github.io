@@ -13,4 +13,9 @@ $(document).ready(function () {
       $menu.hide();
     }
   });
+  
+  
+  $('.shopingBtn').click(function(){
+   window.location.href='products/Product';
+})
 });
